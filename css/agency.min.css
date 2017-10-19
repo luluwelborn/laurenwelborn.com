@@ -5,6 +5,13 @@
  */
 
 
+.process {
+  max-width: 100%;
+}
+
+.img-fluid {
+  border: 1px solid #eee;
+}
 
  .btn-lg {
   color: #fff;
