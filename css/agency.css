@@ -204,6 +204,7 @@ header.masthead {
     background-color: white; }
     #portfolio .portfolio-item .portfolio-caption h4 {
       margin: 0;
+      font-size: 1.3rem;
       text-transform: none; }
     #portfolio .portfolio-item .portfolio-caption p {
       font-size: 16px;
