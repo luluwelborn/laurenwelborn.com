@@ -135,7 +135,7 @@ header.masthead {
     header.masthead .intro-text .intro-heading {
       font-size: 50px;
       font-weight: 700;
-      line-height: 50px;
+      line-height: 30px;
       margin-bottom: 25px;
       font-family: 'Raleway', 'Helvetica Neue', Helvetica, Arial, sans-serif;
       text-transform: uppercase; }
@@ -153,7 +153,7 @@ header.masthead {
     header.masthead .intro-text .intro-heading {
       font-size: 60px;
       font-weight: 700;
-      line-height: 60px;
+      line-height: 30px;
       margin-bottom: 25px;
       font-family: 'Raleway', 'Helvetica Neue', Helvetica, Arial, sans-serif;
       text-transform: uppercase; } }
